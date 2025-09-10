@@ -1,3 +1,0 @@
-# gmailSorter
-
-Gmail - hosts labels
